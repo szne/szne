@@ -5,6 +5,6 @@
     <a>鈴音 / szne</a>
 </h3>
 <p align="center">
-    <a>🔗Twitter: https://twitter.com/szneh</a>
-    <a>🔗Zenn: https://zenn.dev/szn</a>
+    🔗Twitter: https://twitter.com/szneh
+    🔗Zenn: https://zenn.dev/szn
 </p>
