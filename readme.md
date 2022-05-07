@@ -5,7 +5,10 @@
     <a>鈴音 / szne</a>
 </h3>
 <p align="center">
-    🔗Homepage(now in progress): https://szn.jp</br>
+    //ここにやっていることを入力
+</p>
+<p align="center">
+    🔗Homepage(作成中): https://szn.jp</br>
     🔗Twitter: https://twitter.com/szneh</br>
     🔗zenn: https://zenn.dev/szn
 </p>
