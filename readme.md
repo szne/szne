@@ -5,9 +5,7 @@
     <a>鈴音 / szne</a>
 </h3>
 <p align="center">
+    🔗Homepage(now in progress): https://szn.jp</br>
     🔗Twitter: https://twitter.com/szneh</br>
-    🔗Zenn: https://zenn.dev/szn
+    🔗zenn: https://zenn.dev/szn
 </p>
-
-# About me
-Nuxt.jsを始めました、全部において初心者なのでいろいろ教えてください.
