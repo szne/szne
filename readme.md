@@ -8,7 +8,7 @@
     //ここにやっていることを入力
 </p>
 <p align="center">
-    🔗Homepage(作成中): https://szn.jp</br>
+    🏠(作成中): https://szn.jp</br>
     🔗Twitter: https://twitter.com/szneh</br>
     🔗zenn: https://zenn.dev/szn
 </p>
