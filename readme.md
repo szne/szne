@@ -9,6 +9,6 @@
 </p>
 <p align="center">
     🏠(作成中): https://szn.jp</br>
-    🔗Twitter: https://twitter.com/szneh</br>
+    🐦Twitter: https://twitter.com/szneh</br>
     🔗zenn: https://zenn.dev/szn
 </p>
