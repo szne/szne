@@ -5,10 +5,10 @@
     <a>szne</a>
 </h3>
 <p align="center">
-    //ここにやっていることを入力
+    /*Enter what I'm doing here*/
 </p>
 <p align="center">
-    🏠(作成中): https://szn.jp</br>
-    🐦Twitter: https://twitter.com/szneh</br>
+    🏠HomePage(In progress...): https://szn.jp</br>
+    🐦Twitter: https://x.com/szneh</br>
     🔗zenn: https://zenn.dev/szn
 </p>
