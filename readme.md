@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://pbs.twimg.com/media/GE3qViDbgAAtMjq?format=jpg&name=4096x4096" width="1000">
+    <img src="https://raw.githubusercontent.com/szne/szne/main/header_with_icon.png" width="1000">
 </p>
 <h3 align="center">
     <a>szne</a>
