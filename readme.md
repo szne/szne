@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/84981684?s=400&u=ccb80ca10adf4b788e0e0a4e27c54e03ab54d757&v=4" width="200">
+    <img src="https://pbs.twimg.com/media/GE3qViDbgAAtMjq?format=jpg&name=4096x4096" width="1000">
 </p>
 <h3 align="center">
     <a>szne</a>
